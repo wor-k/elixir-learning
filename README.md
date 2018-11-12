@@ -1,6 +1,6 @@
 # run
 * mix deps.get
-* mix complie
+* mix compile
 * mix run main.exs <input.json>
 
 # testing
